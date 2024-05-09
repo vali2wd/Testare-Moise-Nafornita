@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testare Moise Nafornita", "Testare Moise Nafornita\Testare Moise Nafornita.csproj", "{F913D277-2858-4BF0-A627-C10BA1D35895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMeasurement Testing by Nafornita A. and Moise", "NMeasurement Testing by Nafornita A. and Moise\NMeasurement Testing by Nafornita A. and Moise.csproj", "{63D5F0F5-A84A-497C-8BA7-6101A5B37F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F913D277-2858-4BF0-A627-C10BA1D35895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F913D277-2858-4BF0-A627-C10BA1D35895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F913D277-2858-4BF0-A627-C10BA1D35895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F913D277-2858-4BF0-A627-C10BA1D35895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D5F0F5-A84A-497C-8BA7-6101A5B37F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D5F0F5-A84A-497C-8BA7-6101A5B37F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D5F0F5-A84A-497C-8BA7-6101A5B37F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D5F0F5-A84A-497C-8BA7-6101A5B37F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07439022-8EEE-491F-83A0-1CAABF982846}
+	EndGlobalSection
+EndGlobal
