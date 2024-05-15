@@ -11,7 +11,7 @@ X acoperire la nivel de
 	X instrucțiune,
   	X decizie
 	X condiție,
--circuite independente, 
+Xcircuite independente, 
 Xanaliză raport creat de generatorul de mutanți, 
 Xteste suplimentare pentru a omorî 2 dintre mutanții neechivalenți rămași în viață) pe exemple proprii (create de echipă).
 
